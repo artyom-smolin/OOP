@@ -1,0 +1,5 @@
+new_Cat_two 6
+Felix 10
+Alex 4
+Vladimir 2
+Simon 8
